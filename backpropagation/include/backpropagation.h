@@ -1,3 +1,4 @@
-#include "common.h"
+#pragma once
 
-API int sum(int a, int b);
+#include "nn.h"
+#include "random_engine.h"
